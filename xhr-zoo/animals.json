@@ -1,0 +1,117 @@
+{
+    "animals": [
+        {
+            "names":"Blue Poison Arroy Frog",
+            "type":"Amphbian",
+            "number":"18",
+            "isCarnivore": true,
+            "imageUrl": "https://www.speakcdn.com/assets/2147/12_frogs.jpg"
+        }, 
+        {
+            "names":"Panamanian Golden Frog",
+            "type":"Amphbian",
+            "number":"21",
+            "isCarnivore": false,
+            "imageUrl": "https://www.speakcdn.com/assets/2147/12_golden-frog-katie-gregory.jpg"
+        },
+        {
+            "names":"Surinam Toad",
+            "type":"Amphbian",
+            "number":"17",
+            "isCarnivore": true,
+            "imageUrl": "https://www.speakcdn.com/assets/2147/12_surinam-toad-web.jpg"
+        },
+        {
+            "names":"Capercaillie",
+            "type":"Bird",
+            "number":"9",
+            "isCarnivore": false,
+            "imageUrl": "https://www.speakcdn.com/assets/2147/capercallie-web.jpg"
+        },
+        {
+            "names":"Common Barn Owl",
+            "type":"Bird",
+            "number":"4",
+            "isCarnivore": true,
+            "imageUrl": "https://www.speakcdn.com/assets/2147/12_barnowl1-sq.jpg"
+        },
+        {
+            "names":"Rhinoceros Hornbill",
+            "type":"Bird",
+            "number":"5",
+            "isCarnivore": true,
+            "imageUrl": "https://www.speakcdn.com/assets/2147/12_rhinohornbill1.jpg"
+        },
+        {
+            "names":"Lined Seahorse",
+            "type":"Fish",
+            "number":"15",
+            "isCarnivore": false,
+            "imageUrl": "https://www.speakcdn.com/assets/2147/12_lined-seahorse.jpg"
+        },
+        {
+            "names":"Blue Tang Surgeon Fish",
+            "type":"Fish",
+            "number":"11",
+            "isCarnivore": false,
+            "imageUrl": "https://www.speakcdn.com/assets/2147/12_blue-tang-surgeonfish.jpg"
+        },
+        {
+            "names":"Lionfish",
+            "type":"Fish",
+            "number":"4",
+            "isCarnivore": true,
+            "imageUrl": "https://www.speakcdn.com/assets/2147/12_lionfish1.jpg"
+        },
+        {
+            "names":"Red Ruffed Lemur",
+            "type":"Mammal",
+            "number":"6",
+            "isCarnivore": false,
+            "imageUrl": "https://www.speakcdn.com/assets/2147/12_redruffedlemur4.jpg"
+        },
+        {
+            "names":"Clouded Leopard",
+            "type":"Mammal",
+            "number":"6",
+            "isCarnivore": true,
+            "imageUrl": "https://www.speakcdn.com/assets/2147/12_cloudedleopard7.jpg"
+        },
+        {
+            "names":"Bontebok",
+            "type":"Mammal",
+            "number":"10",
+            "isCarnivore": false,
+            "imageUrl": "https://www.speakcdn.com/assets/2147/12_bontebok-sq.jpg"
+        },
+        {
+            "names":"Dwarf Caiman",
+            "type":"Reptile",
+            "number":"7",
+            "isCarnivore": true,
+            "imageUrl": "https://www.speakcdn.com/assets/2147/12_dwarf_caiman_-_sperka.jpg"
+        },
+        {
+            "names":"Eyelash Palm Pit Viper",
+            "type":"Reptile",
+            "number":"2",
+            "isCarnivore": true,
+            "imageUrl": "https://www.speakcdn.com/assets/2147/12_eyelashviper-web.jpg"
+        },
+        {
+            "names":"Aldabra Tortoise",
+            "type":"Reptile",
+            "number":"4",
+            "isCarnivore": false,
+            "imageUrl": "https://www.speakcdn.com/assets/2147/12_koraline_-_aldabra_-_katie_gregory.jpg"
+        },
+        {
+            "names":"Goliath Bird-Eating Tarantula",
+            "type":"Arthropod",
+            "number":"5",
+            "isCarnivore": true,
+            "imageUrl": "https://www.speakcdn.com/assets/2147/12_tarantula.jpg"
+        }
+
+    ]
+}

@@ -9,7 +9,12 @@ const printToDom = (string, id) => {
 const buildDomString = (animalArray) => {
     let domString = "";
     for (let i=0; i<animalArray.length; i++) {
-        domString += `<h2>${animalArray[i].names}</h2>`
+        domString += `<div class="animal">`
+        domString += `<h1>${animalArray[i].names}</h1>`;
+        domString += `<h3>${animalArray[i].number}</h3>`;
+        domString += `<img src="${animalArray[i].imageUrl}" alt="">`;
+        domString += `<button type="button">${"Escaped"}</button>`;
+        domString += `</div>`
     }
     printToDom(domString, "animal-holder");
 };
